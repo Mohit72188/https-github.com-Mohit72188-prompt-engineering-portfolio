@@ -1,4 +1,4 @@
-Hi, I’m Mphit Umesh Vyas a QA automation engineer transitioning into the world of AI and large language models. This repo showcases my journey in prompt engineering.
+Hi, I’m Mohit Umesh Vyas a QA automation engineer transitioning into the world of AI and large language models. This repo showcases my journey in prompt engineering.
 
 ## 🔬 Projects
 - **QA Assistant** – Generate test steps and edge cases from requirements.
